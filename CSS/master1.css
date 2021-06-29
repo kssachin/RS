@@ -3,7 +3,7 @@ body{
   background-color: pink;
   /* position: relative; */
   height: 100vh;
-  width: 100vh;
+  width: 100vw;
   overflow: auto;
   margin: 0;
 
