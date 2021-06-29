@@ -1,0 +1,22 @@
+body {
+  background-color: #fff5eb;
+}
+
+h1 {
+  color: green;
+}
+
+.classr1 {
+  font-family: "Sofia", sans-serif;
+  text-align: center;
+
+}
+.classr2 {
+  display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 20%;
+ height: 20%;
+ border-radius: 50%;
+ background-color:#fff5eb;
+}

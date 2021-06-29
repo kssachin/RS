@@ -1,0 +1,21 @@
+body{
+height: 100vh;
+position: relative;
+background: yellow;
+}
+
+h3 {
+margin: auto;
+}
+
+
+.sachin1{
+
+  background: green;
+}
+
+.sachin2{
+height: 100px;
+width: 100px;
+  background: red;
+}

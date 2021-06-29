@@ -1,0 +1,27 @@
+body{
+
+  background-color: pink;
+  /* position: relative; */
+  height: 100vh;
+  width: 100vh;
+  overflow: auto;
+  margin: 0;
+
+}
+
+.container1{
+
+  background-color: green;
+  /* position: absolute; */
+  height: 100vh;
+  width: 100vw;
+}
+
+.container2{
+
+  background-color: blue;
+  /* position: absolute; */
+  height: 100vh;
+  width: 100vw;
+
+}
